@@ -6,7 +6,7 @@ git clone https://github.com/ShaileshLPrabhu/Auto-sales-EDA.git
 
 step 2: Find the project file (edaproj.ipynb) and open it in vscode or any other ide that supports jupyter notebook
 
-step 3:open terminal in your ide Install the necessary python libraries (pandas,numpy,matplotlib,seaborn,scikit-learn)
+step 3:open terminal in your ide Install the necessary python libraries (pandas,numpy,matplotlib,seaborn)
 
 pip install pandas <br />
 pip install numpy <br />
