@@ -1,4 +1,4 @@
-Instructions to configure inorder to run this project on your device.
+Instructions for configuration in order to run this project on your device.
 
 step 1: clone the repository to your desired folder
 
